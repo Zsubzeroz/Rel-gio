@@ -4,10 +4,10 @@
 Um simples relógio para mantelo informado
 
 ## Índice
-- <a href="#Funcionalidades">Funcionalidades do Projeto</a>
+- <a href="#funcionalidades">Funcionalidades do Projeto</a>
 - <a href="#Layout">Layout<a>
 - <a href="#Demonstraçãoo">Demonstração<a>
-- <a href="#Tecnologias">Tecnologias Utilizadas<a>
+- <a href="#tecnologias">Tecnologias Utilizadas<a>
 
 ## Funcionalidades do Projeto
 - [x] Mostrar o horário
